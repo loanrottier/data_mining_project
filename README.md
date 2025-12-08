@@ -7,8 +7,8 @@ Article: Mozharovskyi, P., & Valla, R. (2025). Anomaly detection using data dept
 case. International Journal of Data Science and Analytics, 1-26. (link)
 Code: data-depth package :
 
-[text](https://data-depth.github.io/)
-[text](https://pypi.org/project/data-depth/)
+[package website](https://data-depth.github.io/)
+[pypi link](https://pypi.org/project/data-depth/)
 
 
 Using the reference article, present data depth and its application to anomaly detection. Groups
