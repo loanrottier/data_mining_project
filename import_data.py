@@ -24,3 +24,5 @@ print("Valeurs uniques :", df[target_col].unique())
 # transformr outlier into 0: normal, 1: anomaly
 y = np.where(df[target_col] == "yes", 1, 0)
 X = df.drop(columns=[target_col]).values
+
+print(X)
